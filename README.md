@@ -1,5 +1,5 @@
 # Keras-CNN-Dog-or-Cat-Classification
-explanation in korean
+2nd problem of assignment "차량지능기초"
 
 MNIST 분류기 코드와 아주 유사하게 진행된다.
 
